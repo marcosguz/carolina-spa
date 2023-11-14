@@ -29,7 +29,7 @@ var swiper = new Swiper(".swiper", {
         </tr>
         <tr>
             <td align="justify">
-				<a href="https://spa-salon.netlify.app/"Carolina Spa</a>
+				<a href="https://spa-salon.netlify.app/">Carolina Spa</a>
 			</td>
         </tr>
     </tbody>
